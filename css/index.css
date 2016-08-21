@@ -208,8 +208,8 @@ html {
 }
 
 .slide2 img:nth-child(2) {
-    right: .18rem;
-    bottom: .8rem;
+    right: .3rem;
+    bottom: .6rem;
 }
 .slide2 div .wrap {
     font-family: 微软雅黑;
@@ -308,19 +308,19 @@ html {
 .slide3 img.self11 {
     width: 3.15rem;
     height: 1.85rem;
-    top:4.6rem;
-    left: .6rem;
+    top: 4.6rem;
+    left: .4rem;
 }
 .slide3 img.self22 {
     width: 4.06rem;
     height:3.9rem;
-    top:4.9rem;
+    top: 4.5rem;
     left: .6rem;
 }
 .slide3 img.self33{
     width: 2.67rem;
     height: 6.02rem;
-    top:3.8rem;
+    top: 3.5rem;
     left: 2.8rem;
 }
 
@@ -357,7 +357,7 @@ html {
 
 /*-----slide4-----*/
 .slide4 {
-    background: url("../img/bgYellow.jpg") no-repeat;
+    background: url("../img/bg2.jpg") no-repeat;
     background-size: cover;
 
 }
@@ -368,9 +368,9 @@ html {
     left: 1.05rem;
 }
 .slide4 .cover img:nth-child(2){
-    width: 1.86rem;
-    height: 1.27rem;
-    top: 1.08rem;
+    width: 1.3rem;
+    height: 1.5rem;
+    top: .8rem;
     left: 3.8rem;
 }
 .slide4 .cover img:nth-child(3){
@@ -716,7 +716,7 @@ html {
 
 /*-----slide5-----*/
 .slide5 {
-    background: url("../img/bgYellow.jpg") no-repeat;
+    background: url("../img/bg2.jpg") no-repeat;
     background-size: cover;
 
 }
@@ -736,7 +736,7 @@ html {
     width: 1.82rem;
     height: 1.7rem;
     top: 3.78rem;
-    left: .37rem;
+    left: 0.6rem;
 }
 .slide5 img:nth-child(4){
     width: 2.08rem;
@@ -751,15 +751,15 @@ html {
     left: 1.9rem;
 }
 .slide5 img:nth-child(6){
-    width: 2.68rem;
-    height: 2.5rem;
-    top: 6.6rem;
+    width: 2.4rem;
+    height: 2.3rem;
+    top: 6.4rem;
     left: 3.4rem;
 }
 .slide5 img:nth-child(7){
-    width: 3.14rem;
-    height: 2.94rem;
-    top: 7.28rem;
+    width: 2.8rem;
+    height: 2.6rem;
+    top: 7rem;
     left: .4rem;
 }
 .slide5 img:nth-child(8){
@@ -778,7 +778,7 @@ html {
     width: 1.01rem;
     height: .62rem;
     top: 4.26rem;
-    left: 0.73rem;
+    left: 0.96rem;
 }
 .slide5 img:nth-child(11){
     width: 1rem;
@@ -789,20 +789,20 @@ html {
 .slide5 img:nth-child(12){
     width: 1.01rem;
     height: .6rem;
-    top: 4.25rem;
-    left: 3.8rem;
+    top: 4.34rem;
+    left: 3.86rem;
 }
 .slide5 img:nth-child(13){
     width: 1.8rem;
     height: 0.6rem;
-    top: 7.4rem;
-    left: 3.83rem;
+    top: 7.1rem;
+    left: 3.7rem;
 }
 .slide5 img:nth-child(14){
     width: 1.58rem;
     height: .78rem;
-    top: 8.209rem;
-    left: 1.15rem;
+    top: 7.8rem;
+    left: 1rem;
 }
 
 
